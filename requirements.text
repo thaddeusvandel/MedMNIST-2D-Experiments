@@ -1,0 +1,6 @@
+torch
+torchvision
+medmnist
+numpy
+tqdm
+tensorboardX
